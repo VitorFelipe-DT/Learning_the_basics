@@ -18,13 +18,6 @@ git add scr/IgorProject.java
 git commit -m "Step two (my first branch)"
 ```
 
-### Creating a branch with checkout
-```bash 
-git checkout -b igor-branch
-git add README.md
-git commit -m "Add other way to change the branch and enforce a conflict"
-```
-
 ###Merging and connecting to GitHub
 ```bash
 git switch main
