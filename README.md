@@ -10,13 +10,6 @@ git add .
 git commit - "Step one"
 ```
 
-### Creating a branch and making a change
-```bash 
-git switch -c my-first-branch 
-git branch 
-git add scr/IgorProject.java
-git commit -m "Step two (my first branch)"
-```
 
 ### Creating a branch with checkout
 ```bash 
